@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to speak to recruiters who are searching for their next junior web developer.
 - 📫 How to reach me:
-    LinkedIn:
+    LinkedIn: https://www.linkedin.com/in/aaron-waldron-81509613b/
     Email: aaronwaldron95@gmail.com
     
 
